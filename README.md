@@ -1,6 +1,6 @@
 # Olá, eu sou o João Souza 👋
 
-Desenvolvedor web, estudante de Engenharia de Software e fundador da **JS Software**, onde crio soluções digitais para empresas.
+Desenvolvedor web, estudante de Engenharia de Software e fundador da **Apexus Code**, onde crio soluções digitais para empresas.
 
 ### 💼 O que eu faço
 - Sites profissionais
@@ -22,7 +22,7 @@ Desenvolvedor web, estudante de Engenharia de Software e fundador da **JS Softwa
 🔗 https://pousadaquadrado.netlify.app
 
 ### 📫 Contato
-Instagram: [@jssooftware](https://instagram.com/jssooftware)
+Instagram: [@apexuscode](https://instagram.com/apexuscode)
 
 ---
 🎷 Nas horas vagas (e nos eventos), também sou saxofonista.
